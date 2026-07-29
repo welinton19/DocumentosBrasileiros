@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/API/">
+    <Project Path="DocumentosBrasileiros/DocumentosBrasileiros.csproj" />
+  </Folder>
+  <Folder Name="/Nucleo/">
+    <Project Path="DocumentosBrasileiros.Application/DocumentosBrasileiros.Application.csproj" />
+    <Project Path="DocumentosBrsileiros.Domain/DocumentosBrsileiros.Domain.csproj" />
+  </Folder>
+</Solution>
